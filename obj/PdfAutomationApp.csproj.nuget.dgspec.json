@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Uday\\PdfAutomationApp - Main\\Pdf_Uploading---Automation-tool\\PdfAutomationApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Uday\\PdfAutomationApp - Main\\Pdf_Uploading---Automation-tool\\PdfAutomationApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Uday\\PdfAutomationApp - Main\\Pdf_Uploading---Automation-tool\\PdfAutomationApp.csproj",
+        "projectName": "PdfAutomationApp",
+        "projectPath": "D:\\Uday\\PdfAutomationApp - Main\\Pdf_Uploading---Automation-tool\\PdfAutomationApp.csproj",
+        "packagesPath": "C:\\Users\\Doctus.DBS\\.nuget\\packages\\",
+        "outputPath": "D:\\Uday\\PdfAutomationApp - Main\\Pdf_Uploading---Automation-tool\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Doctus.DBS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.7.0.5276, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.7.0.5276, )"
+            },
+            "FlaUI.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "FlaUI.UIA3": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Web.WebView2": {
+              "target": "Package",
+              "version": "[1.0.3351.48, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.11.0.20250507, )"
+            },
+            "OpenCvSharp4.Extensions": {
+              "target": "Package",
+              "version": "[4.11.0.20250507, )"
+            },
+            "OpenCvSharp4.runtime.win": {
+              "target": "Package",
+              "version": "[4.11.0.20250507, )"
+            },
+            "PdfiumViewer": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
+            "PdfiumViewer.Native.x86_64.v8-xfa": {
+              "target": "Package",
+              "version": "[2018.4.8.256, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Tesseract": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

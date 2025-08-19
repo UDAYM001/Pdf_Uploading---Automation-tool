@@ -1,0 +1,287 @@
+[
+  {
+    "Type": "Tap",
+    "Location": {
+      "IsEmpty": false,
+      "X": 2806,
+      "Y": 54
+    },
+    "DelayBefore": null,
+    "DelayAfter": 4444,
+    "RequiredHexColor": null,
+    "Label": "1 Tap",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "Tap",
+    "Location": {
+      "IsEmpty": false,
+      "X": 3096,
+      "Y": 376
+    },
+    "DelayBefore": null,
+    "DelayAfter": 4444,
+    "RequiredHexColor": null,
+    "Label": "2 Tap",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "Tap",
+    "Location": {
+      "IsEmpty": false,
+      "X": 3098,
+      "Y": 466
+    },
+    "DelayBefore": null,
+    "DelayAfter": 3333,
+    "RequiredHexColor": null,
+    "Label": "3 Tap",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "Tap",
+    "Location": {
+      "IsEmpty": false,
+      "X": 2897,
+      "Y": 376
+    },
+    "DelayBefore": null,
+    "DelayAfter": 3333,
+    "RequiredHexColor": null,
+    "Label": "4 Tap",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "TextInput",
+    "Location": {
+      "IsEmpty": false,
+      "X": 2886,
+      "Y": 378
+    },
+    "DelayBefore": null,
+    "DelayAfter": null,
+    "RequiredHexColor": null,
+    "Label": "1 TextInput",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "Hotkey",
+    "Location": {
+      "IsEmpty": true,
+      "X": 0,
+      "Y": 0
+    },
+    "DelayBefore": null,
+    "DelayAfter": 5555,
+    "RequiredHexColor": null,
+    "Label": "Hotkey: Alt\u002BD",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": "Alt\u002BD"
+  },
+  {
+    "Type": "Tap",
+    "Location": {
+      "IsEmpty": false,
+      "X": 2600,
+      "Y": 192
+    },
+    "DelayBefore": null,
+    "DelayAfter": null,
+    "RequiredHexColor": null,
+    "Label": "5 Tap",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "TextInput",
+    "Location": {
+      "IsEmpty": false,
+      "X": 2589,
+      "Y": 191
+    },
+    "DelayBefore": null,
+    "DelayAfter": null,
+    "RequiredHexColor": null,
+    "Label": "2 TextInput",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "Tap",
+    "Location": {
+      "IsEmpty": false,
+      "X": 2671,
+      "Y": 235
+    },
+    "DelayBefore": null,
+    "DelayAfter": null,
+    "RequiredHexColor": null,
+    "Label": "6 Tap",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "Tap",
+    "Location": {
+      "IsEmpty": false,
+      "X": 2567,
+      "Y": 1222
+    },
+    "DelayBefore": null,
+    "DelayAfter": 6000,
+    "RequiredHexColor": null,
+    "Label": "1 Tap FileDialog",
+    "IsFileDialog": true,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "Tap",
+    "Location": {
+      "IsEmpty": false,
+      "X": 2961,
+      "Y": 1154
+    },
+    "DelayBefore": null,
+    "DelayAfter": null,
+    "RequiredHexColor": null,
+    "Label": "8 Tap",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "Tap",
+    "Location": {
+      "IsEmpty": false,
+      "X": 4664,
+      "Y": 81
+    },
+    "DelayBefore": null,
+    "DelayAfter": null,
+    "RequiredHexColor": null,
+    "Label": "9 Tap",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "Hotkey",
+    "Location": {
+      "IsEmpty": true,
+      "X": 0,
+      "Y": 0
+    },
+    "DelayBefore": null,
+    "DelayAfter": null,
+    "RequiredHexColor": null,
+    "Label": "Hotkey: ESCAPE",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": "ESCAPE"
+  },
+  {
+    "Type": "Hotkey",
+    "Location": {
+      "IsEmpty": true,
+      "X": 0,
+      "Y": 0
+    },
+    "DelayBefore": null,
+    "DelayAfter": null,
+    "RequiredHexColor": null,
+    "Label": "Hotkey: Ctrl\u002BShift\u002BD",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": "Ctrl\u002BShift\u002BD"
+  },
+  {
+    "Type": "Tap",
+    "Location": {
+      "IsEmpty": false,
+      "X": 2764,
+      "Y": 303
+    },
+    "DelayBefore": null,
+    "DelayAfter": null,
+    "RequiredHexColor": null,
+    "Label": "10 Tap",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "Tap",
+    "Location": {
+      "IsEmpty": false,
+      "X": 2569,
+      "Y": 141
+    },
+    "DelayBefore": null,
+    "DelayAfter": null,
+    "RequiredHexColor": null,
+    "Label": "11 Tap",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "Hotkey",
+    "Location": {
+      "IsEmpty": true,
+      "X": 0,
+      "Y": 0
+    },
+    "DelayBefore": null,
+    "DelayAfter": null,
+    "RequiredHexColor": null,
+    "Label": "Hotkey: Alt\u002BO",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": "Alt\u002BO"
+  },
+  {
+    "Type": "Tap",
+    "Location": {
+      "IsEmpty": false,
+      "X": 2434,
+      "Y": 213
+    },
+    "DelayBefore": null,
+    "DelayAfter": null,
+    "RequiredHexColor": null,
+    "Label": "12 Tap",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  },
+  {
+    "Type": "Tap",
+    "Location": {
+      "IsEmpty": false,
+      "X": 2592,
+      "Y": 210
+    },
+    "DelayBefore": null,
+    "DelayAfter": null,
+    "RequiredHexColor": null,
+    "Label": "13 Tap",
+    "IsFileDialog": false,
+    "TextToType": null,
+    "Hotkey": null
+  }
+]
